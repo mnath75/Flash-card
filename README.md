@@ -3,13 +3,7 @@
 
 An app created to easily create, study and share flash cards using React and Firebase.
 
-View the live project here: https://arlocodes.com/flash-cards/
 
-**TEST ACCOUNT**: You may log in using these credentials to test the project:
-
-Email: testing@test.com
-
-Password: testing123
 
 # Features
 * A wrapping carousel component with flippable cards.
